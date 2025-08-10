@@ -1,6 +1,8 @@
-# Yinyang property
+# yinyang-property
 
-# Introduction
+## Yinyang Property
+
+### Introduction
 
 [https://github.com/vietphan1995/yinyang-property.git](https://github.com/vietphan1995/yinyang-property.git)
 
@@ -12,7 +14,7 @@ Yinyang property finds, suggests property having yinyang value fit with your inf
 
 ![image.png](image.png)
 
-[back to projects …](https://github.com/vietphan1995/projects)
+[back to git projects …](https://github.com/vietphan1995/projects)
 
 ### Notes
 https://phantrungviet.notion.site/Yinyang-property-1df5e832d6ee80078d35f6aad3821153
