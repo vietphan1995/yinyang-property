@@ -21,4 +21,4 @@ Yinyang property finds, suggests property having yinyang value fit with your inf
 ### [back to git projects …](https://github.com/vietphan1995/projects)
 
 ### Notes
-https://phantrungviet.notion.site/yinyang-property-1df5e832d6ee80078d35f6aad3821153
+https://maianhcorporation.notion.site/yinyang-property-1df5e832d6ee80078d35f6aad3821153
